@@ -1,0 +1,9 @@
+[package]
+name = "init"
+version = "0.1.0"
+authors = ["hoomanist <hham.group12@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+serde_json = "1.0"
